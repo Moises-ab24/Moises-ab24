@@ -25,7 +25,7 @@
 
 ---
 
-### 🔵 About Me
+### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; About Me
 
 ```
 Desarrollador joven enfocado en construir productos digitales completos —
@@ -34,7 +34,7 @@ desde aplicaciones web y móviles hasta sistemas de gestión a medida.
 
 ---
 
-### 🔵 Tech Stack
+### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Tech Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@ desde aplicaciones web y móviles hasta sistemas de gestión a medida.
 
 ---
 
-### 🔵 AI-Assisted Engineering
+### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; AI-Assisted Engineering
 
 <div align="center">
 
@@ -73,7 +73,7 @@ desde aplicaciones web y móviles hasta sistemas de gestión a medida.
 
 ---
 
-### 🔵 Experience
+### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Experience
 
 **Founder & Lead Developer — APX Tech**
 *En curso*
@@ -99,7 +99,7 @@ Fundador y desarrollador principal de una agencia de software enfocada en soluci
 
 ---
 
-### 🔵 Certifications
+### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Certifications
 
 <div align="center">
 
@@ -124,7 +124,7 @@ Fundador y desarrollador principal de una agencia de software enfocada en soluci
 
 ---
 
-### 🔵 GitHub Analytics
+### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; GitHub Analytics
 
 <div align="center">
 
@@ -137,7 +137,7 @@ Fundador y desarrollador principal de una agencia de software enfocada en soluci
 
 ---
 
-### 🔵 Contribution Activity
+### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Contribution Activity
 
 <div align="center">
 
@@ -147,7 +147,7 @@ Fundador y desarrollador principal de una agencia de software enfocada en soluci
 
 ---
 
-### 🔵 Connect
+### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Connect
 
 <div align="center">
 
