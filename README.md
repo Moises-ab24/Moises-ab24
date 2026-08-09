@@ -14,6 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-APX%20Tech-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a1929)](https://apxtech.pages.dev)
 [![Email](https://img.shields.io/badge/Email-moi24ad%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1929)](mailto:moi24ad@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Moises--ab24-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1929)](https://github.com/Moises-ab24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moises%20Abarca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0a1929)](https://www.linkedin.com/in/moises-abarca-alvarado/)
 
 <br/>
 
@@ -52,7 +53,7 @@ desde aplicaciones web y móviles hasta sistemas de gestión a medida.
 
 **Cloud, DevOps & Tooling**
 
-![Skills](https://skillicons.dev/icons?i=cloudflare,git,github,linux,vscode)
+![Skills](https://skillicons.dev/icons?i=cloudflare,git,github,linux,vscode,figma)
 
 </div>
 
@@ -154,6 +155,7 @@ Fundador y desarrollador principal de una agencia de software enfocada en soluci
 [![Email](https://img.shields.io/badge/Gmail-moi24ad%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1929)](mailto:moi24ad@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-APX%20Tech-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a1929)](https://apxtech.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Moises--ab24-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1929)](https://github.com/Moises-ab24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moises%20Abarca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0a1929)](https://www.linkedin.com/in/moises-abarca-alvarado/)
 
 </div>
 
