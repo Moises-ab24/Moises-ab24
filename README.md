@@ -26,7 +26,8 @@
 ---
 
 ```
-Desarrollador joven enfocado en construir productos digitales completos, desde aplicaciones web y móviles hasta sistemas completos.
+Desarrollador joven enfocado en construir productos digitales completos.
+Desde aplicaciones web y móviles hasta sistemas completos.
 ```
 
 ---
