@@ -18,7 +18,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Moises-ab24&color=2563eb&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Moises-ab24?style=flat-square&color=0891b2&labelColor=0a1929&label=Followers)
 ![Stars](https://img.shields.io/github/stars/Moises-ab24?style=flat-square&color=22d3ee&labelColor=0a1929&label=Stars)
 
@@ -26,16 +25,11 @@
 
 ---
 
-### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; About Me
-
 ```
-Desarrollador joven enfocado en construir productos digitales completos —
-desde aplicaciones web y móviles hasta sistemas de gestión a medida.
+Desarrollador joven enfocado en construir productos digitales completos, desde aplicaciones web y móviles hasta sistemas completos.
 ```
 
 ---
-
-### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Tech Stack
 
 <div align="center">
 
@@ -59,86 +53,11 @@ desde aplicaciones web y móviles hasta sistemas de gestión a medida.
 
 ---
 
-### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; AI-Assisted Engineering
-
 <div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Desarrollo asistido por IA | ⭐⭐⭐⭐ | Uso avanzado de herramientas de IA integradas al flujo de desarrollo diario |
-| Prompt Engineering | ⭐⭐⭐⭐ | Diseño de prompts estructurados para generación de código, documentación y diseño |
-| Agentes de IA | ⭐⭐⭐ | Formación práctica en programación con agentes (BIG School) |
-| IA aplicada a datos | ⭐⭐⭐ | PowerBI + IA para análisis y visualización de datos |
-
-</div>
-
----
-
-### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Experience
-
-**Founder & Lead Developer — APX Tech**
-*En curso*
-
-Fundador y desarrollador principal de una agencia de software enfocada en soluciones digitales completas para clientes y negocios.
-
-- Diseño y desarrollo de aplicaciones web, sistemas de gestión y sitios corporativos
-- Arquitectura full-stack: frontend, backend, bases de datos e infraestructura de despliegue
-- Gestión de relación con clientes en conjunto con el equipo comercial
-
-`React` `TypeScript` `Vite` `Firebase` `Supabase` `Cloudflare Pages`
-
-<br/>
-
-**Pasantía — Departamento de TI, Grupo Monge**
-*22 de septiembre – 3 de octubre, 2025*
-
-- Inventario y etiquetado de dispositivos tecnológicos
-- Mantenimiento preventivo de laptops y computadoras de escritorio
-- Soporte técnico general al área de TI
-
-`Hardware` `Mantenimiento` `Soporte Técnico`
-
----
-
-### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Certifications
-
-<div align="center">
-
-**Udemy**
-
-![LPIC-1 101](https://img.shields.io/badge/LPIC--1-Examen%20101-2563eb?style=flat-square&logo=linux&logoColor=white&labelColor=0a1929)
-![LPIC-1 102](https://img.shields.io/badge/LPIC--1-Examen%20102-2563eb?style=flat-square&logo=linux&logoColor=white&labelColor=0a1929)
-
-**Cisco Networking Academy**
-
-![English for IT](https://img.shields.io/badge/English%20for%20IT-Describing%20%26%20Comparing-0891b2?style=flat-square&logo=cisco&logoColor=white&labelColor=0a1929)
-![Hardware](https://img.shields.io/badge/Hardware%20Básico-Cisco-0891b2?style=flat-square&logo=cisco&logoColor=white&labelColor=0a1929)
-![Data Science](https://img.shields.io/badge/Introducción%20a%20Ciencia%20de%20Datos-Cisco-0891b2?style=flat-square&logo=cisco&logoColor=white&labelColor=0a1929)
-
-**Otros**
-
-![BIG School](https://img.shields.io/badge/Desarrollo%20con%20IA-Agentes-22d3ee?style=flat-square&labelColor=0a1929)
-![Daxus Latam](https://img.shields.io/badge/PowerBI%20%2B%20IA-Daxus%20Latam-22d3ee?style=flat-square&labelColor=0a1929)
-![Scrum](https://img.shields.io/badge/Fundamentos%20de%20Scrum-Soylíder.net-22d3ee?style=flat-square&labelColor=0a1929)
-
-</div>
-
----
-
-### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; GitHub Analytics
-
-<div align="center">
-
 
 <img height="165" src="https://streak-stats.demolab.com?user=Moises-ab24&theme=tokyonight&hide_border=true&background=0a1929&stroke=22d3ee&ring=22d3ee&fire=38bdf8&currStreakLabel=d0f5ff" />
 
-
-
 </div>
-
----
-
-### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Contribution Activity
 
 <div align="center">
 
@@ -147,8 +66,6 @@ Fundador y desarrollador principal de una agencia de software enfocada en soluci
 </div>
 
 ---
-
-### <img src="assets/icon-marker.png" width="20" align="absmiddle"/>&nbsp; Connect
 
 <div align="center">
 
