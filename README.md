@@ -48,7 +48,7 @@ Desde aplicaciones web y móviles hasta sistemas completos.
 
 **Cloud, DevOps & Tooling**
 
-![Skills](https://skillicons.dev/icons?i=cloudflare,git,github,linux,vscode,figma)
+![Skills](https://skillicons.dev/icons?i=cloudflare,git,github,linux,vscode,figma,notion)
 
 </div>
 
