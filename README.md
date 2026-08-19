@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,50:1e40af,100:0891b2&height=220&section=header&text=Mois%C3%A9s%20Abarca%20Alvarado&fontSize=48&fontColor=e0f7fa&animation=fadeIn&fontAlignY=38&desc=Software%20%2F%20Web%20App%20Developer%20%7C%20Founder%20%40%20APX%20Tech&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+products;Founder+%26+Lead+Developer+%40+APX+Tech;React+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare;Software/Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=600&lines=Founder+%26+Lead+Developer+%40+APX+Tech;React+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare;Software/Web+Developer" alt="Typing SVG" />
 
 <br/>
 
