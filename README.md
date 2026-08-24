@@ -70,17 +70,6 @@ Desde aplicaciones web hasta sistemas completos.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-moi24ad%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1929)](mailto:moi24ad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-APX%20Tech-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a1929)](https://apxtech.pages.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Moises--ab24-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1929)](https://github.com/Moises-ab24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moises%20Abarca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0a1929)](https://www.linkedin.com/in/moises-abarca-alvarado/)
-
-</div>
-
----
-
-<div align="center">
-
 *"La percepción define los resultados."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:1e40af,100:0a1929&height=120&section=footer" />
