@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,50:1e40af,100:0891b2&height=220&section=header&text=Mois%C3%A9s%20Abarca%20Alvarado&fontSize=48&fontColor=e0f7fa&animation=fadeIn&fontAlignY=38&desc=Software%20%2F%20Web%20App%20Developer%20%7C%20Founder%20%40%20APX%20Tech&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,50:1e40af,100:0891b2&height=220&section=header&text=Mois%C3%A9s%20Abarca%20Alvarado&fontSize=48&fontColor=e0f7fa&animation=fadeIn&fontAlignY=38&desc=Software%20%2F%20Web%20App%20Developer%20%7C%20Founder%20%20Scrinex&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=600&lines=Founder+%26+Lead+Developer+%40+APX+Tech;React+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare;Software/Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=600&lines=Founder+%26+Lead+Developer+Scrinex;React+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare;Software/Web+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-APX%20Tech-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a1929)](https://apxtech.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Scrinex-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a1929)](https://scrinex.pages.dev)
 [![Email](https://img.shields.io/badge/Email-moi24ad%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1929)](mailto:moi24ad@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Moises--ab24-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1929)](https://github.com/Moises-ab24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moises%20Abarca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0a1929)](https://www.linkedin.com/in/moises-abarca-alvarado/)
